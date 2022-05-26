@@ -1,0 +1,17 @@
+{
+    "files": {
+        "README.md": "d0751f25b950ec4e8a44055c67bf4060b66e0cebf5adcafec26c7eb249cf5c28",
+        "config.json": {
+            "overwrite": false,
+            "hash": "68a9c3889565b947b61660045593abe4fa6552455821a1e1d0778a4948f56a65"
+        },
+        "index.js": "9007c99e98b4a9d874fd1c38e772616392b1c98492cd5e7a99e6a37d5b7cf434",
+        "module.json": "666ce383542405c818eef169c428923b2d6e76b00f9cf6de7952ec1dba819c24"
+    },
+    "defs": {
+        "S_CREST_MESSAGE": 2,
+        "S_DUNGEON_EVENT_MESSAGE": 2,
+        "S_LOGIN": 14,
+        "S_START_COOLTIME_SKILL": 3
+    }
+}

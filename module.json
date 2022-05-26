@@ -1,0 +1,8 @@
+{
+    "disableAutoUpdate": false,
+    "name": "skill-resets",
+    "author": "KYGAS",
+    "description": "Shows pop up message whenever a skill resets.",
+    "servers": ["https://raw.githubusercontent.com/KYGAS/skill-resets/master/"],
+    "supportUrl": "https://github.com/KYGAS/skill-resets/issues"
+}
