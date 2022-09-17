@@ -1,4 +1,4 @@
-# skill-resets
+# better-skill-resets
 
 Shows pop up message whenever a skill resets.
 
